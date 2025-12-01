@@ -4970,6 +4970,7 @@ cc_prebuilt_library_shared {
                 "libhidlbase",
                 "liblog",
                 "libutils",
+                "libntf_vendor",
                 "libc++",
                 "libc",
                 "libm",
