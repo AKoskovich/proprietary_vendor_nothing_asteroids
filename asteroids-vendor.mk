@@ -1452,17 +1452,17 @@ PRODUCT_PACKAGES += \
     vendor.qti.qspmhal-V1-ndk \
     vendor.qti.qspmhal-impl \
     vendor.qti.voiceprint@1.0 \
-    libQnnHtpV73 \
-    libQnnHtpV73Skel \
-    libadsp_jpege_skel \
-    libarc_htp_driver_skel \
-    libbitml_nsp_skel \
-    libdsp_streamer_binning \
-    libhme_dsp_skel \
-    libmctfengine_skel \
-    libmlawbpostproc_dsp_skel \
-    libtfadsp_rx \
-    libtfadsp_tx \
+    vendor_lib_rfsa_adsp_libQnnHtpV73_so \
+    vendor_lib_rfsa_adsp_libQnnHtpV73Skel_so \
+    vendor_lib_rfsa_adsp_libadsp_jpege_skel_so \
+    vendor_lib_rfsa_adsp_libarc_htp_driver_skel_so \
+    vendor_lib_rfsa_adsp_libbitml_nsp_skel_so \
+    vendor_lib_rfsa_adsp_libdsp_streamer_binning_so \
+    vendor_lib_rfsa_adsp_libhme_dsp_skel_so \
+    vendor_lib_rfsa_adsp_libmctfengine_skel_so \
+    vendor_lib_rfsa_adsp_libmlawbpostproc_dsp_skel_so \
+    vendor_lib_rfsa_adsp_libtfadsp_rx_so \
+    vendor_lib_rfsa_adsp_libtfadsp_tx_so \
     com.qualcomm.qti.dpm.api@1.0 \
     lib-imsvideocodec \
     lib-imsvt \
