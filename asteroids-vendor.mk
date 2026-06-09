@@ -1143,8 +1143,6 @@ PRODUCT_PACKAGES += \
     libprefapps \
     libprekill \
     libprocomp \
-    libprotobuf-cpp-full-21.7 \
-    libprotobuf-cpp-lite-21.7 \
     libq-perflog \
     libqapesdk \
     libqc2audio_base \
