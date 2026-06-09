@@ -78,7 +78,6 @@ PRODUCT_COPY_FILES += \
     vendor/nothing/asteroids/proprietary/vendor/etc/acdbdata/volcano_qrd_wsa883x/QRD_workspaceFileXml.qwsp:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/volcano_qrd_wsa883x/QRD_workspaceFileXml.qwsp \
     vendor/nothing/asteroids/proprietary/vendor/etc/apdr.conf:$(TARGET_COPY_OUT_VENDOR)/etc/apdr.conf \
     vendor/nothing/asteroids/proprietary/vendor/etc/batching.conf:$(TARGET_COPY_OUT_VENDOR)/etc/batching.conf \
-    vendor/nothing/asteroids/proprietary/vendor/etc/camera/Ndot-55.otf:$(TARGET_COPY_OUT_VENDOR)/etc/camera/Ndot-55.otf \
     vendor/nothing/asteroids/proprietary/vendor/etc/camera/ancsat/sat_mecp.bin:$(TARGET_COPY_OUT_VENDOR)/etc/camera/ancsat/sat_mecp.bin \
     vendor/nothing/asteroids/proprietary/vendor/etc/camera/ancsat/sat_mecp_plus.bin:$(TARGET_COPY_OUT_VENDOR)/etc/camera/ancsat/sat_mecp_plus.bin \
     vendor/nothing/asteroids/proprietary/vendor/etc/camera/basic_param.bin:$(TARGET_COPY_OUT_VENDOR)/etc/camera/basic_param.bin \
